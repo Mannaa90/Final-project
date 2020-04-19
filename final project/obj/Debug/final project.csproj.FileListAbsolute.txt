@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\final project\final project\bin\Debug\final project.exe.config
+C:\Users\LENOVO\source\repos\final project\final project\bin\Debug\final project.exe
+C:\Users\LENOVO\source\repos\final project\final project\bin\Debug\final project.pdb
+C:\Users\LENOVO\source\repos\final project\final project\obj\Debug\final project.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\final project\final project\obj\Debug\final_project.Form1.resources
+C:\Users\LENOVO\source\repos\final project\final project\obj\Debug\final_project.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\final project\final project\obj\Debug\final project.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\final project\final project\obj\Debug\final project.exe
+C:\Users\LENOVO\source\repos\final project\final project\obj\Debug\final project.pdb
